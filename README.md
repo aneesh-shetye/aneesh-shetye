@@ -1,5 +1,5 @@
-<img align="left" src=>
+<img align="left" src="https://github.com/aneesh-shetye/aneesh-shetye/images/AI.gif">
 
 
-💡I'm in sophomore Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology VNIT, Nagpur,India currrently working in IvLabs.
-🤖I'm an aspiring roboticists currently researching in the field of Deep Learning .
+- 💡I'm in sophomore Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology VNIT, Nagpur,India currrently working in IvLabs.
+- 🤖I'm an aspiring roboticists currently researching in the field of Deep Learning .
