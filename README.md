@@ -3,7 +3,7 @@
 ## Hey there! 👋
 <br>
 
-- 💡 I'm in sophomore Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology VNIT, Nagpur,India currrently working in IvLabs.
+- 💡 I'm a sophomore Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India currrently working in IvLabs.
 
 
 - 🤖 As an aspiring roboticists I'm currently working in the field of Deep Learning and Natural Language Processing .
