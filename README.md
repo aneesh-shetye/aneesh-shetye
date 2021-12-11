@@ -1,4 +1,4 @@
-![img ](images/AI.gif)
+![img ](images/curse_of_dimensionality.png)
 
 ## Hey there! 👋
 <br>
