@@ -3,10 +3,10 @@
 ## Hey there! 👋
 <br>
 
-- 💡 I'm a sophomore Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India currrently working in IvLabs.
+- 💡 I'm in the prefinal year of my undergrad in Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India currrently working in IvLabs.
 
 
-- 🤖 As an aspiring roboticists I'm currently working in the field of Deep Learning and Natural Language Processing .
+- 🤖 Currently working in Multimodality, multilinguality ,and contrastive learning.
 
 
 - 🔬 Check out some of the projects of [IvLabs](https://www.ivlabs.in/) the Robotics and AI club of VNIT of which I'm a part of.
