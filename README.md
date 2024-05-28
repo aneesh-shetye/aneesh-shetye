@@ -20,7 +20,5 @@
 
 <br>
 
-[![Aneesh Shetye's github stats](https://github-readme-stats.vercel.app/api?username=aneesh-shetye&show_icons=true&theme=radical)](https://github.com/aneesh-shetye/github-readme-stats)
-
 
 ![Aneesh Shetye's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh-shetye&layout=compact&theme=dark)
