@@ -3,13 +3,13 @@
 ## Hey there! 👋
 <br>
 
-- 💡 I'm in the prefinal year of my undergrad in Electrical and Electronics Engineer at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India currrently working in IvLabs.
+- 💡 I'm a second year Masters student at NYU, studying Computer Engineering currently working at EMERGE Lab.
 
 
-- 🤖 Currently working in Multimodality, multilinguality ,and contrastive learning.
+- 🤖 Currently working in Reinforcement Learning, Multimodality, multilingualism, and contrastive learning.
 
 
-- 🔬 Check out some of the projects of [IvLabs](https://www.ivlabs.in/) the Robotics and AI club of VNIT of which I'm a part of.
+- 🔬 Check out some of the projects of [IvLabs](https://www.ivlabs.in/) the Robotics and AI club of VNIT of which I was a part of.
 <br>
 
 **Contact me:**
