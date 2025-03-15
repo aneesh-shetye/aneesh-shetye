@@ -1,16 +1,12 @@
-![img ](images/curse_of_dimensionality.png)
 
 ## Hey there! 👋
 <br>
+I'm a second year Masters student at NYU, studying Computer Engineering, working at the intersection of RL and NLP. Previously, I have worked with multimodality, multilingualism, and contrastive learning.
 
-- 💡 I'm a second year Masters student at NYU, studying Computer Engineering currently working at EMERGE Lab.
-
-
-- 🤖 Currently working in Reinforcement Learning, Multimodality, multilingualism, and contrastive learning.
-
-
-- 🔬 Check out some of the projects of [IvLabs](https://www.ivlabs.in/) the Robotics and AI club of VNIT of which I was a part of.
 <br>
+
+## What can you expect to find here? 
+You would probably find repositories which benchmark various datasets and models. Other repositories contain precursor experiments to major projects. However, most of my work can be found on GitHub accounts for the respective labs and organizations- [IvLabs](https://github.com/IvLabs), [EMERGE Lab](https://github.com/Emerge-Lab) and [Sov.ai](https://github.com/sovai-research/news-llm-project). 
 
 **Contact me:**
 
