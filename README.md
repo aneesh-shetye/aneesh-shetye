@@ -1,12 +1,16 @@
 
-## Hey there! 👋
 <br>
-I'm a second year Masters student at NYU, studying Computer Engineering, working at the intersection of RL and NLP. Previously, I have worked with multimodality, multilingualism, and contrastive learning.
+Have been out for a while - most of my code so far has been with the labs I've been working with. [IvLabs](https://github.com/IvLabs), [EMERGE Lab](https://github.com/Emerge-Lab) and [Sov.ai](https://github.com/sovai-research/news-llm-project). 
 
-<br>
+## What can you expect going ahead
 
-## What can you expect to find here? 
-You would probably find repositories which benchmark various datasets and models. Other repositories contain precursor experiments to major projects. However, most of my work can be found on GitHub accounts for the respective labs and organizations- [IvLabs](https://github.com/IvLabs), [EMERGE Lab](https://github.com/Emerge-Lab) and [Sov.ai](https://github.com/sovai-research/news-llm-project). 
+A bunch of explorations-  here are the topics I want to start with - 
+
+1. Action based Coding Models
+2. Databases
+3. Optimization problems
+
+Stay tuned to find out what these mean :) 
 
 **Contact me:**
 
